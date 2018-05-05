@@ -2,5 +2,7 @@
 
 phpinfo();
 
+edit
+
 php?>
 
